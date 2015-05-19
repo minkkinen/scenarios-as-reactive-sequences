@@ -5,3 +5,5 @@ The concept of reactive sequences entails that events and actions are linked to 
 There are various definitions of mechanisms but the general idea is usually the same: opening the 'black box' of causal explanation and explaining *how* certain phenomena bring about other phenomena \cite{Hedstr_m_2010}. In reactive sequences, this means having a theoretical explanation for the connections between the nodes in the event sequence. A process or a sequence of events is thus a chain of mechanisms.
 
 Necessary and sufficient conditions (Mahoney)
+
+Mechanism-based explanations make predicting outcomes problematic \cite{Hedstr_m_2010}.
