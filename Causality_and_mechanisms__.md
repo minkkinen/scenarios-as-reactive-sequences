@@ -1,2 +1,3 @@
 # Causality and mechanisms
 
+The concept of reactive sequences entails that events and actions are linked to each other. What does this mean? In order to understand linkages, the concept of causality needs to be briefly discussed. In positivist social science, causal explanations mean that certain empirically observable features appear together, for instance low educational level is associated with poverty. In the context of event sequences, causality means something slightly different.
