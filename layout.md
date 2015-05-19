@@ -3,4 +3,5 @@ Scenario_approaches_Scenarios_can_be__.md
 Historical_social_science_and_narrative__.md
 Causality_and_mechanisms_The_concept__.md
 Scenario_framework_How_can_these__.md
+Narrative_explanation_Some_social_scientists__.md
 Discussion_Understanding_scenarios_in_this__.md
