@@ -16,6 +16,6 @@ Another crucial implication is that the order and timing of events play a crucia
 
 The title of this paper is *scenarios as reactive sequences*. The argument that I make is that scenarios can be fruitfully seen as reactive sequences of possible future developments.
 
-Mechanism-based explanations make predicting outcomes problematic \cite{Hedstr_m_2010}.
+
 
 Of course, narrative has been used in FS, but more social scientific notion: narrative *explanation*
