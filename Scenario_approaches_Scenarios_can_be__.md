@@ -1,3 +1,4 @@
 # Scenario approaches
 
-Scenarios can be labelled as standard tools of futures research \cite{bell1997foundations}
+Scenarios can be labelled as a standard tool of futures research \cite{bell1997foundations}. While futurists agree on the usefulness of building scenarios in order to anticipate future developments, there is no consensus on what scenarios are and the best techniques for creating them.  Several recent articles have tried to make sense of the domain of scenario approaches by dividing approaches into scenario types \cite{Bishop_2007, Bradfield_2005, B_rjeson_2006, van_Notten_2003}. Such typologies are made based on slightly different criteria. For example, \citet{B_rjeson_2006} focus on purposes and aims, while \citet{Bishop_2007} focus on scenario techniques, and \citet{van_Notten_2003} ambitiously consider project goal, process design and scenario content. \citet{Bradfield_2005}, in turn, focus on three historical schools of scenario development.
+
