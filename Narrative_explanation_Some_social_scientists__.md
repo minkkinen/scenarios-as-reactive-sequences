@@ -6,6 +6,10 @@ The issue of narrative has been extensively discussed within futures research. F
 
 However, here the focus is on narrative *explanation*, which means a more systematic social scientific approach to narrative than the common understanding of the term. Indeed, often narrative is understood as an alternative to rigorous social scientific explanation.
 
+- analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep{Aminzade_1992}
+  - can contribute to the construction of explanations of why things happened the way they did
+  - narratives construct causality and meaning in terms of temporal connections among events \citep{Aminzade_1992}
+
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}.
 
 \citet{Abbott_1992} writes about *enchainment* rather than causality
