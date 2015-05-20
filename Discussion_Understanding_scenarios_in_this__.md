@@ -13,3 +13,5 @@ Weaknesses of this approach?
 - not suitable for all topics
 
 This approach leaves open the question of the right level of analysis. \citet{Abell_2004} acknowledges that narrative explanation is time-consuming and expensive, and often explanation based on statistical regularities is more appropriate. However, we should at least acknowledge that we should strive to open black boxes of narrative explanations within scenarios, if possible.
+
+In addition, this approach has not considered actors' subjective understandings of time and of social processes. In order to fully understand historical sequences and potential future sequences, subjective temporal orientations would also need to be taken into account \citep{Aminzade_1992}.
