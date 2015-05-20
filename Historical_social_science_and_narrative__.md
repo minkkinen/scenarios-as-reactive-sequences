@@ -21,3 +21,7 @@ The title of this paper is *scenarios as reactive sequences*. The argument that 
 Of course, narrative has been used in FS, but more social scientific notion: narrative *explanation*
 
 Futurists are also accustomed to thinking in processual terms. We usually think in terms of different types of continuities (trends, megatrends) and discontinuities (weak signals, emerging issues, black swans). The focus on narrative and event sequences represents an attempt to enrich this thinking by breaking trends into their component parts: which events and actions constitute an empirical trend?
+
+The difficulty with a processual or narrative approach is that events are part of several narratives at the same time, and connecting them into coherent stories involves much interpretation even if a realist perspective is adopted. Contemporary social scientists do not consider that there is a grand narrative such as progress or secularisation that encompasses all events and makes them understandable. As \citet[][438]{Abbott_1992} states, "the full social process, when viewed in narrative terms, makes up a network of stories flowing into the present and future".
+
+Perhaps the best solution is that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
