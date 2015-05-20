@@ -11,3 +11,5 @@ Weaknesses of this approach?
 - short time horizon
 - still at an early stage: uncertainty of practical feasibility
 - not suitable for all topics
+
+This approach leaves open the question of the right level of analysis. \citet{Abell_2004} acknowledges that narrative explanation is time-consuming and expensive, and often explanation based on statistical regularities is more appropriate. However, we should at least acknowledge that we should strive to open black boxes of narrative explanations within scenarios, if possible.
