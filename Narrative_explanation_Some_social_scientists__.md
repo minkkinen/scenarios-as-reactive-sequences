@@ -14,6 +14,8 @@ However, here the focus is on narrative *explanation*, which means a more system
 
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}.
 
+Also \cite{greycite30256}
+
 \citet{Abbott_1992} writes about *enchainment* rather than causality
 
 Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
