@@ -1,4 +1,4 @@
-# Historical social science and narrative explanation
+## Historical social science and narrative explanation
 
 The starting point for this paper is that scenario approaches need to be grounded in a solid social scientific basis, and the development of scenario techniques should follow developments in the social sciences.
 
