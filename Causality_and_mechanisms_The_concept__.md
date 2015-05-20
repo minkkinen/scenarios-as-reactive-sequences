@@ -6,4 +6,6 @@ There are various definitions of mechanisms but the general idea is usually the 
 
 Necessary and sufficient conditions (Mahoney)
 
+\citet{Abbott_1992} writes about *enchainment* rather than causality. This means the link in a story from one step to the next.
+
 Mechanism-based explanations make predicting outcomes problematic \cite{Hedstr_m_2010}.
