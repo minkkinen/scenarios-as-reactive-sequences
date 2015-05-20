@@ -5,3 +5,5 @@ Scenarios are one of the most widely used methods in futures research, and there
 In contrast, this paper examines scenarios as tools to anticipate possible social change processes from an event-based perspective. The starting point of the paper is the parallel between futures studies and historical social science as fields which study change over time. The central question then is which concepts and approaches futures researchers could usefully employ from historical social science. A tentative a scenario framework is presented which incorporates these insights from historically oriented social science.
 
 The problem with traditional causal explanations is that variables act rather than actors, and thus stories disappear \cite{Abbott_1992}.
+
+In an introduction to a recent special issue of *Futures*, \citeauthor{Mermet_2009} call for critical discussion of the theoretical bases of futures work, drawing from other future-relevant academic fields \cite{Mermet_2009}.
