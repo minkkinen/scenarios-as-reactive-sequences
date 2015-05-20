@@ -9,3 +9,7 @@ However, here the focus is on narrative *explanation*, which means a more system
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \cite[][289]{Abell_2004}.
 
 Singular causality: transformative power of human actions
+
+- "Historical narrative offers an especially useful method for making sense of the multiple steps in a reactive sequence. Through a narrative account, the analyst can provide ''a scene by scene description of the particular causal paths" through which an initial breakpoint leads to a final outcome. Furthermore, the step-by-step approach of narrative allows the analyst to use counterfactual methods in exploring specific causal links in the overall chain." (p. 530) \cite{mahoney2000path}
+- "The events that make up a reactive sequence are connected by tight causal linkages, or what Griffin and Ragin call ''inherent sequentiality."^82 The basic idea underlying inherent sequentiality is Abbott's notion that an ''inherent logic of events" characterizes enchained sequences." (p. 530) \cite{mahoney2000path}
+
