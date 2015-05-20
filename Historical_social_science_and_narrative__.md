@@ -16,9 +16,9 @@ The definition is simple but it has wide implications. Because early events cons
 
 Another crucial implication is that the order and timing of events play a crucial role. Thus it is not only important to consider what is done (action) and by whom (actor), but also *when* this action is taken.
 
-The title of this paper is *scenarios as reactive sequences*. The argument that I make is that scenarios can be fruitfully seen as reactive sequences of possible future developments.
+Reactive sequences refers to sequences of intentional human action. It is not suitable for studying natural processes which follow established natural laws.
 
-
+The title of this paper is *scenarios as reactive sequences*. The argument that I make is that scenarios can be fruitfully seen as reactive sequences of possible future developments. The following figures illustrate this concept (Fig. 1 and Fig. 2).
 
 Of course, narrative has been used in FS, but more social scientific notion: narrative *explanation*
 
