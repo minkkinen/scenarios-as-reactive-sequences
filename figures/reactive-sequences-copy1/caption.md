@@ -1,1 +1,1 @@
-Replace this text with your caption
+Fig. 1. Sequence and conjuncture \citep[][529]{mahoney2000path}
