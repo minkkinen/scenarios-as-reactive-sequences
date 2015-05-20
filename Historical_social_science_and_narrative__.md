@@ -19,3 +19,5 @@ The title of this paper is *scenarios as reactive sequences*. The argument that 
 
 
 Of course, narrative has been used in FS, but more social scientific notion: narrative *explanation*
+
+Futurists are also accustomed to thinking in processual terms. We usually think in terms of different types of continuities (trends, megatrends) and discontinuities (weak signals, emerging issues, black swans). The focus on narrative and event sequences represents an attempt to enrich this thinking by breaking trends into their component parts: which events and actions constitute an empirical trend?
