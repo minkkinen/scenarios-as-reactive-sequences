@@ -4,6 +4,7 @@ Scenario_approaches_Scenarios_can_be__.md
 Historical_social_science_and_narrative__.md
 Causality_and_mechanisms_The_concept__.md
 Scenario_framework_How_can_these__.md
+figures/reactive-sequences-copy1/reactive-sequences-copy1.png
 figures/reactive-sequences-copy/reactive-sequences-copy.png
 Narrative_explanation_Some_social_scientists__.md
 Event_sequences_in_the_development__.md
