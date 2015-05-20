@@ -4,6 +4,8 @@ Some social scientists have argued for narrative explanation as an alternative t
 
 The issue of narrative has been extensively discussed within futures research. For instance, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios, in this way continuing Dator's work.
 
+Scholars have also made the argument that crafting scenario narratives have not been the focus of enough attention \citep{Burnam_Fink_2014}. However, narratives are often considered as literary narratives.
+
 However, here the focus is on narrative *explanation*, which means a more systematic social scientific approach to narrative than the common understanding of the term. Indeed, often narrative is understood as an alternative to rigorous social scientific explanation.
 
 - analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep{Aminzade_1992}
