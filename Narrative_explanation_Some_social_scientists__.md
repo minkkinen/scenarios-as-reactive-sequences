@@ -10,4 +10,6 @@ Narrative explanation: chain of linked events leading to a conclusion that is no
 
 \citet{Abbott_1992} writes about *enchainment* rather than causality
 
-Singular causality: transformative power of human actions
+Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
+
+Graph: what are the nodes and edges? nodes = conditions, states of the world (events?); edges = enchainment, causal mechanisms (or events?)
