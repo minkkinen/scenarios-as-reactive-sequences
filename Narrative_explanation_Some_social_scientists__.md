@@ -1,12 +1,10 @@
-# Narrative explanation
+### Narrative explanation
 
-Some social scientists have argued for narrative explanation as an alternative to variable explanations \citep{Abell_2004}. Scenarios usually contain a scenario narrative, understood as the fleshing-out of the scenario variables \citep[e.g.]{Heinonen_2013}.
+Narrative is a crucial concept for scenario thinking and for futures research in general. \citet[39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing-out of the scenario variables \citep[e.g.]{Heinonen_2013}. Narrative is also a central aspect of causal layered analysis, especially on the myth/metaphor layer where futures are articulated as stories \citep{inayatullah1998causal}. Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios.
 
-The issue of narrative has been extensively discussed within futures research. For instance, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios, in this way continuing Dator's work.
+However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.]{Burnam_Fink_2014}. In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term.
 
-Scholars have also made the argument that crafting scenario narratives have not been the focus of enough attention \citep{Burnam_Fink_2014}. However, narratives are often considered as literary narratives.
-
-However, here the focus is on narrative *explanation*, which means a more systematic social scientific approach to narrative than the common understanding of the term. Indeed, often narrative is understood as an alternative to rigorous social scientific explanation.
+Some social scientists have argued for narrative explanation as an alternative to variable-based explanations \citep{Abell_2004}. 
 
 - analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep{Aminzade_1992}
   - can contribute to the construction of explanations of why things happened the way they did
