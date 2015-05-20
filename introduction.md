@@ -6,4 +6,4 @@ In contrast, this paper examines scenarios as tools to anticipate possible socia
 
 The problem with traditional causal explanations is that variables act rather than actors, and thus stories disappear \cite{Abbott_1992}.
 
-In an introduction to a recent special issue of *Futures*, \citeauthor{Mermet_2009} call for critical discussion of the theoretical bases of futures work, drawing from other future-relevant academic fields \cite{Mermet_2009}.
+In an introduction to a recent special issue of *Futures*, \citeauthor{Mermet_2009} call for critical discussion of the theoretical bases of futures work, drawing from other future-relevant academic fields \citep{Mermet_2009}.
