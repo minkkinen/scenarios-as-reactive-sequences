@@ -2,7 +2,9 @@
 
 The starting point for this paper is that scenario approaches need to be grounded in a solid social scientific basis, and the development of scenario techniques should follow developments in the social sciences.
 
-In particular, historical social science provides a fruitful juxtaposition with scenario building. Of course, the argument has been made many times that history and futures research are parallel in their interest in time-bound phenomena \cite[e.g.]{Kaivo_oja_2004,staley2007history}, but this argument is rarely taken further, nor are recent developments in historical scholarship considered in any depth.
+In particular, historical social science provides a fruitful juxtaposition with scenario building. Of course, the argument has been made many times that history and futures research are parallel in their interest in time-bound phenomena \cite[e.g.]{Kaivo_oja_2004,staley2007history}, but this argument is rarely taken further, nor are recent developments in historical scholarship considered in depth.
+
+The aim of this paper is to import some concepts from historical social science into the theoretical arsenal of futures research. Three concepts are central: *reactive sequences*, *causal mechanisms*, and *narrative explanation*. I am not claiming that these and similar concepts have not been used in futures research, but their implications for scenario thinking have rarely been systematically considered.
 
 \citet{mahoney2000path} argues that there are two types of sequences that can be analysed using the framework of path dependence: self-reinforcing sequences and reactive sequences. Self-reinforcing sequences are perhaps the better known type, since the classic examples of path dependence (the VHS recorder and QWERTY keyboard layout) represent this type of sequence. In a self-reinforcing sequence, an initial choice becomes entrenched over time due to increasing returns and other mechanisms of reproduction.
 
