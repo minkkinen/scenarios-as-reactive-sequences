@@ -6,7 +6,6 @@ Three_concepts.md
 Reactive-sequences.md
 Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_What_differentiates_analytic__.md
-Applying_the_concepts_to_scenario__.md
 figures/reactive-sequences-copy1/reactive-sequences-copy1.png
 Event_sequences_in_the_development__.md
 Discussion_Understanding_scenarios_in_this__.md
