@@ -1,6 +1,6 @@
 ### Reactive sequences
 
-If scenarios are viewed as sequences, what does this mean? A sequence can consist of any kind of elements which somehow link to one another. In the following, I will argue that a scenario should be viewed more specifically as a narrative of a *reactive sequence*.
+If scenarios are viewed as sequences, what does this mean? A sequence can consist of any kind of elements which somehow link to one another. In the following, I would like to specify the type of sequence that a scenario describes. I will argue that a scenario should be viewed as a narrative of a *reactive sequence*.
 
 The concept of reactive sequences comes from the work of the sociologist James Mahoney. \citet{mahoney2000path} argues that there are two types of sequences that can be analysed using the framework of path dependence: self-reinforcing sequences and reactive sequences. Self-reinforcing sequences are perhaps the better known type, since the classic examples of path dependence, such as the QWERTY keyboard layout, represent this type of sequence. In a self-reinforcing sequence, an initial choice becomes entrenched over time due to increasing returns and other mechanisms of reproduction.
 
@@ -16,7 +16,7 @@ Reactive sequences refers to sequences of intentional human action. It is not su
 
 The title of this paper is *scenarios as narratives of reactive sequences*. The argument that I make is that scenarios can be fruitfully seen as stories of reactive sequences of possible future developments. The following figures illustrate this concept (Fig. 1 and Fig. 2).
 
-Futurists are also accustomed to thinking in processual terms. We usually think in terms of different types of continuities (trends, megatrends) and discontinuities (weak signals, emerging issues, black swans). The focus on narrative and event sequences represents an attempt to enrich this thinking by breaking trends into their component parts: which events and actions constitute an empirical trend?
+The strength of futurists is that we are accustomed to thinking in processual terms. In explaining change, we usually consider different types of continuities (trends, megatrends) and discontinuities (weak signals, emerging issues, black swans). The focus on narrative and event sequences represents an attempt to enrich this thinking by breaking trends into their component parts: which events and actions constitute an empirical trend?
 
 In many scenario approaches, scenarios are creatively written stories that open stakeholders' views concerning the future \citep{schwartz1996art}. While scenarios are always stories, the sequences and change processes to which they refer can be viewed in at least moderately realist terms. There are actual transformations happening in society, not only in cognitive representations of society. Nonetheless, realism cannot be conceived naively within futures research, because the shape of the emerging future depends largely on how actors envision it in the present. In recent decades, this realist position has been discussed by several authors, highlighting for instance dispositions, affordances and latent possibilities within structures \cite{bell1997foundations, patomaki2006realist, poli2011steps}.
 
