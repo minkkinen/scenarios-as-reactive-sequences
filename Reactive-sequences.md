@@ -22,4 +22,4 @@ The difficulty with a processual or narrative approach is that events are part o
 
 "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)" \citep{Abell_2004}
 
-Perhaps the best solution is that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
+A sensible solution seems to be that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
