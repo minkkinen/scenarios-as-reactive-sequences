@@ -8,7 +8,7 @@ Some scenarios may be presented as self-reinforcing sequences, as kind of "winne
 
 >  Reactive sequences are chains of temporally ordered and causally connected events. In a reactive sequence, each event in the sequence is both a reaction to antecedent events and a cause of subsequent events.
 
-The definition is simple but it has wide implications. Because early events constrain subsequent ones, their impact cascades throughout the entire sequence. This is a similar notion to the notion in evolutionary futures studies that small changes in initial conditions may have drastic impacts on outcomes \cite{Mannermaa_1991}. However, here the focus is on events and actions rather than external conditions.
+The definition is simple but it has wide implications. Because early events constrain subsequent ones, their impact cascades throughout the entire sequence. This is similar notion to the notion in evolutionary futures studies that small fluctuations may ultimately have drastic impacts on outcomes \cite{Mannermaa_1991}. However, here the level abstraction is lower and the focus is on specific processes rather than attempting to explain overall societal development.
 
 Another crucial implication is that the order and timing of events play a crucial role. Thus it is not only important to consider what is done (action) and by whom (actor), but also *when* this action is taken.
 
