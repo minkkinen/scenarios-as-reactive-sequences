@@ -1,6 +1,6 @@
-# Scenario framework
+# Applying the concepts to scenario building
 
-At the outset, it is important to acknowledge that mechanism-based explanations make predicting outcomes problematic \citep{Hedstr_m_2010}.
+How do these three concepts enrich building sequence scenarios? At the outset, it is important to acknowledge that mechanism-based explanations make predicting outcomes problematic \citep{Hedstr_m_2010}.
 
 If scenarios are understood as reactive sequences within the context of narrative explanation, what needs to be taken into account in building scenarios? In brief, building scenarios from this perspective contains three steps: 1) selecting theoretically relevant factors, 2) tracing historical change processes and finding critical events and 3) creating event-based scenarios.
 
