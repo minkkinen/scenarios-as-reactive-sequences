@@ -8,4 +8,4 @@ figures/reactive-sequences-copy1/reactive-sequences-copy1.png
 Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_What_differentiates_analytic__.md
 Event_sequences_in_the_development__.md
-Discussion_Understanding_scenarios_in_this__.md
+Discussion_The_aim_of_this__.md
