@@ -1,17 +1,18 @@
 # Discussion
+The aim of this paper was to discuss the implications of understanding scenarios as narratives of event sequences, using concepts from historical social science. As I mentioned earlier, the notion of scenarios as event sequences is nothing new. What, then, is the novelty value of this paper? Bringing in the concepts of reactive sequences, narrative explanation and causal mechanisms has three key benefits for futures research: 1) breaking processes into sequences, 2) clarifying causal claims and 3) highlighting the importance of timing and order.
 
-Understanding scenarios in this way has significant implications for futures research because it highlights the importance of the timing and order of events within processes.
+The first benefit is that these concepts allow to break macro-level change processes into sequences of events, thus lowering the level of abstraction and enabling a more finegrained understanding of the underlying system that produces observable trends.
+
+Secondly, these concepts, particularly the concept of causal mechanisms, allow futures researchers to be more specific about the causal claims that are made concerning links between events.
+
+The third key benefit is that the understanding of scenarios as narratives of reactive sequences highlights the importance of the timing and order of events. In a reactive sequence, each event is a reaction to a previous one and a cause of the next one. Therefore the order of events is important, as the impacts of earlier events cascade throughout the subsequent sequence. No doubt executives making decisions on timing of investments do not need to be told this. In addition, if two or more processes cross each other in a conjuncture, *when* this happens crucially influences the outcome \citep{mahoney2000path}.
 
 Nevertheless, the intention is not to predict future development paths, but to argue for possible sequences of events based on theoretical knowledge and knowledge of historical development.
 
-As I mentioned earlier, the notion of scenarios as event sequences is nothing new. What, then, is the novelty value of this paper? The aim of this paper has been to systematically discuss the implications of understanding scenarios as event sequences, using concepts from historical social science.
+On the other hand, the approach of scenarios as narratives of reactive sequences has some shortcomings. Firstly, the time horizon cannot be very long, as the number of events would multiply uncontrollably and arguing for a limited number of scenarios would become impossible. Secondly, this approach is not suitable for all topics. The approach of narrative explanation is intended to explain intentional human action in complex social systems. For modelling environmental systems and other natural phenomena, other approaches are more appropriate because nature follows laws and mechanisms that are different from the mechanisms of human action. Thirdly, this approach is at an early stage of formulation and it has not shown its practical feasibility. Scenario building is also practical activity, and often it is equally important that approaches are feasible in practice than formally appropriate.
 
-Weaknesses of this approach?
-
-- short time horizon
-- still at an early stage: uncertainty of practical feasibility
-- not suitable for all topics
+In addition, this approach has not considered actors' subjective understandings of time and of social processes. In order to fully understand historical sequences and potential future sequences, subjective temporal orientations would also need to be taken into account \citep{Aminzade_1992}.
 
 This approach leaves open the question of the right level of analysis. \citet{Abell_2004} acknowledges that narrative explanation is time-consuming and expensive, and often explanation based on statistical regularities is more appropriate. However, we should at least acknowledge that we should strive to open black boxes of narrative explanations within scenarios, if possible.
 
-In addition, this approach has not considered actors' subjective understandings of time and of social processes. In order to fully understand historical sequences and potential future sequences, subjective temporal orientations would also need to be taken into account \citep{Aminzade_1992}.
+These shortcomings only mean that this scenario approach has its own scope and niche, and it does not fit all research projects. Thus we return to the point already made earlier in this paper: there is room for different kinds of scenario approaches.
