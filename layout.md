@@ -5,6 +5,7 @@ Snapshots.md
 Three_concepts.md
 Reactive-sequences.md
 figures/reactive-sequences-copy1/reactive-sequences-copy1.png
+Reactive-futures.md
 Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_What_differentiates_analytic__.md
 Event_sequences_in_the_development__.md
