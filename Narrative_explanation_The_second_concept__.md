@@ -22,3 +22,5 @@ In order to construct a plausible narrative explanation, the scenario analyst ne
 The goal of narrative explanation or analytic narratives is generalisation of sequence types. History certainly does not repeat itself, but it is plausible that similar types of processes may occur at different times and in different places, if the conditions are sufficiently similar. They may even take the form of "robust processes" that occur in similar ways across a wide spectrum of time and place \citep{Aminzade_1992}. The metaphor of a musical sequence, where a melodic pattern is repeated at different pitches, is apt here.
 
 Scenarios should be explicitly event and sequence-oriented, outlining possible future event sequences, branching points and conjunctures (see Fig. 2).
+
+A sensible solution seems to be that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
