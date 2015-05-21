@@ -4,19 +4,18 @@ The second concept from historical social science is narrative explanation, whic
 
 However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.]{Burnam_Fink_2014}. Likewise, historians may consider their task as weaving literary narratives, and thus their primary interest is in literary representations of events rather than events as such \citep{staley2007history}.
 
-In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term. This concept brings narrative closer to scientific realism. As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)". Is a way, social reality *is* a narrative.
+In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term. This concept brings narrative closer to scientific realism. As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)". In a way, social reality *is* a narrative. Narrative explanation can be understood as an alternative to variable-based explanations but without abandoning the notion of causality, although some theorists prefer to speak of *enchainment* rather than causality \citep{Abell_2004}. 
 
-Some social scientists have argued for narrative explanation as an alternative to variable-based explanations \citep{Abell_2004}. 
+In the narrative explanatory mode, the task of a social scientist is to build an *analytic narrative* or *causal narrative*. An analytic narratives are "theoretically structured stories about coherent sequences of motivated actions" \citep[][458]{Aminzade_1992}.
+Both forms aim to scientifically explain why certain events took place.
 
-
-
-- analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep[][458]{Aminzade_1992}
-  - can contribute to the construction of explanations of why things happened the way they did
   - narratives construct causality and meaning in terms of temporal connections among events \citep{Aminzade_1992}
 
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}.
 
 Also \cite{greycite30256}
+
+The connection between narratives and reactive sequences is that narratives are representations *of* a sequence.
 
 \citet{Abbott_1992} writes about *enchainment* rather than causality
 
