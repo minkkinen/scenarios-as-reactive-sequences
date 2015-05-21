@@ -1,6 +1,6 @@
 introduction.md
 Scenarios_past_and_future__.md
-Scenario_approaches_Scenarios_can_be__.md
+Scenario_approaches_Scenarios_are_one__.md
 Snapshots.md
 Three_concepts.md
 Reactive-sequences.md
