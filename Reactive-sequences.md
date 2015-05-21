@@ -1,5 +1,7 @@
 ### Reactive sequences
 
+If scenarios are viewed as sequences, what does this mean? A sequence can consist of any kind of elements
+
 The concept of reactive sequences comes from the work of the sociologist James Mahoney. \citet{mahoney2000path} argues that there are two types of sequences that can be analysed using the framework of path dependence: self-reinforcing sequences and reactive sequences. Self-reinforcing sequences are perhaps the better known type, since the classic examples of path dependence (the VHS recorder and QWERTY keyboard layout) represent this type of sequence. In a self-reinforcing sequence, an initial choice becomes entrenched over time due to increasing returns and other mechanisms of reproduction.
 
 Some scenarios may be represented as self-reinforcing sequences, as kind of "winner takes all" narratives. However, I would argue that the second type of sequence, reactive sequence, is more common and general, and therefore more useful for futures research. \citet[][526]{mahoney2000path} gives the following definition of a reactive sequence:
