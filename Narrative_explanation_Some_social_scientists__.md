@@ -1,12 +1,16 @@
 ### Narrative explanation
 
-Narrative is a crucial concept for scenario thinking and for futures research in general. \citet[39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing-out of the scenario variables \citep[e.g.]{Heinonen_2013}. Narrative is also a central aspect of causal layered analysis, especially on the myth/metaphor layer where futures are articulated as stories \citep{inayatullah1998causal}. Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios.
+The second concept from historical social science is narrative explanation, which is closely related to historical thinking. Of course, narrative is widely present in scenario thinking and for futures research in general. \citet[39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing-out of the scenario variables \citep[e.g.]{Heinonen_2013}. Narrative is also a central aspect of causal layered analysis, especially on the myth/metaphor layer where futures are articulated as stories \citep{inayatullah1998causal}. Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios.
 
-However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.]{Burnam_Fink_2014}. In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term.
+However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.]{Burnam_Fink_2014}. Likewise, historians may consider their task as weaving literary narratives, and thus their primary interest is in literary representations of events rather than events as such \citep{staley2007history}.
+
+In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term. This concept brings narrative closer to scientific realism. As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)". Is a way, social reality *is* a narrative.
 
 Some social scientists have argued for narrative explanation as an alternative to variable-based explanations \citep{Abell_2004}. 
 
-- analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep{Aminzade_1992}
+
+
+- analytic narratives: theoretically structured stories about coherent sequences of motivated actions \citep[][458]{Aminzade_1992}
   - can contribute to the construction of explanations of why things happened the way they did
   - narratives construct causality and meaning in terms of temporal connections among events \citep{Aminzade_1992}
 
