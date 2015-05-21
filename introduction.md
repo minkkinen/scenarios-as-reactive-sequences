@@ -6,4 +6,3 @@ In an introduction to a recent special issue of *Futures*, Mermet et al. call fo
 
 In this article, scenarios are examined as tools to anticipate possible social change processes from an event-based perspective. The starting point of the paper is the parallel between futures studies and historical social science as fields which study change over time. In particular, three central concepts from historical social science are considered as important for scenario construction: 1) narrative explanation, 2) reactive sequences and 3) causal mechanisms. A tentative a scenario framework is presented to incorporate these concepts into scenario building.
 
-The problem with traditional causal explanations is that variables act rather than actors, and thus stories disappear \citep{Abbott_1992}.
