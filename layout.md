@@ -4,7 +4,7 @@ Scenario_approaches_Scenarios_are_one__.md
 Snapshots.md
 Three_concepts.md
 Reactive-sequences.md
-Narrative_explanation_Some_social_scientists__.md
+Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_The_concept_of__.md
 Scenario_framework_If_scenarios_are__.md
 figures/reactive-sequences-copy1/reactive-sequences-copy1.png
