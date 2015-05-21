@@ -12,8 +12,6 @@ The definition is simple but it has wide implications. Because early events cons
 
 Another crucial implication is that the order and timing of events play a crucial role. Thus it is not only important to consider what is done (action) and by whom (actor), but also *when* this action is taken.
 
-Reactive sequences refers to sequences of intentional human action. It is not suitable for studying natural processes which follow established natural laws.
-
 The title of this paper is *scenarios as narratives of reactive sequences*. The argument that I make is that scenarios can be fruitfully seen as stories of reactive sequences of possible future developments. The following figures illustrate this concept (Fig. 1 and Fig. 2).
 
 The strength of futurists is that we are accustomed to thinking in processual terms. In explaining change, we usually consider different types of continuities (trends, megatrends) and discontinuities (weak signals, emerging issues, black swans). The focus on narrative and event sequences represents an attempt to enrich this thinking by breaking trends into their component parts: which events and actions constitute an empirical trend?
