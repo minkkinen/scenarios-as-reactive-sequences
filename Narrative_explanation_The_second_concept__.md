@@ -6,23 +6,16 @@ However, within the futures field, narratives are often considered in the litera
 
 In contrast, I will focus on narrative *explanation* here, which means a more systematic social scientific approach to narrative than the literary understanding of the term. This concept brings narrative closer to scientific realism. As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)". In a way, social reality *is* a narrative. Narrative explanation can be understood as an alternative to variable-based explanations but without abandoning the notion of causality, although some theorists prefer to speak of *enchainment* rather than causality \citep{Abbott_1992, Abell_2004}. The problem with traditional causal explanations is that variables act rather than actors, and thus stories disappear \citep{Abbott_1992}.
 
-In the narrative explanatory mode, the task of a social scientist is to build an *analytic narrative* or *causal narrative*. An analytic narratives are "theoretically structured stories about coherent sequences of motivated actions" \citep[][458]{Aminzade_1992}.
-Both forms aim to scientifically explain why certain events took place.
-
-  - narratives construct causality and meaning in terms of temporal connections among events \citep{Aminzade_1992}
+In the narrative explanatory mode, the task of a social scientist is to build an *analytic narrative* or *causal narrative*. An analytic narratives are "theoretically structured stories about coherent sequences of motivated actions" \citep[][458]{Aminzade_1992}. \citet{greycite30256}, in turn, defines a causal narrative as "an orderly analysis of the sequence of events and the causal processes that connected them, leading from a set of initial conditions to the outcome in question". These definitions are very similar, and both forms aim to scientifically explain why certain events took place. Here I will use the term analytic narrative.
 
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}.
 
-Also \cite{greycite30256}
-
-The connection between narratives and reactive sequences is that narratives are representations *of* a sequence.
-
-\citet{Abbott_1992} writes about *enchainment* rather than causality
+The connection between narratives and reactive sequences is that narratives are representations *of* a sequence -- they tell the story of a sequence of events but in a theoretically informed way. Analytic narratives give meaning to sequences by explaining the temporal connections among events \citep{Aminzade_1992}. The difficult question is which are the most important events, the crucial nodes in the sequence. The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to such crucial events \citep{Capoccia_2007}. These are critical choice points which radically alter the direction of a process. To some extent, they could be likened to black swans or wild cards within futures research, but perhaps they need not be as dramatic. In reality, it is usually difficult to identify clear critical junctures, and therefore it may be more suitable to consider criticality of events as a continuum. \citet{mahoney2000path} makes the point that critical events are contingent, that is, they cannot be predicted with existing theory. My hypothesis is that substantive theory of the topic is needed for identifying crucial events.
 
 Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
 
 Graph: what are the nodes and edges? nodes = conditions, states of the world (events?); edges = enchainment, causal mechanisms (or events?)
 
-A further question is which are the most important events, the crucial nodes in the sequence. The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to such crucial events \citep{Capoccia_2007}. These are critical choice points which radically alter the direction of a process. To some extent, they could be likened to black swans or wild cards within futures research, but perhaps they need not be as dramatic. In reality, it is usually difficult to identify clear critical junctures, and therefore it may be more suitable to consider criticality of events as a continuum. \citet{mahoney2000path} makes the point that critical events are contingent, that is, they cannot be predicted with existing theory. My hypothesis is that substantive theory of the topic is needed for identifying crucial events.
+
 
 The goal of narrative explanation or analytic narratives is generalisation of sequence types. History certainly does not repeat itself, but it is plausible that similar types of processes may occur at different times and in different places, if the conditions are sufficiently similar. They may even take the form of "robust processes" that occur in similar ways across a wide spectrum of time and place \citep{Aminzade_1992}. The metaphor of a musical sequence, where a melodic pattern is repeated at different pitches, is apt here.
