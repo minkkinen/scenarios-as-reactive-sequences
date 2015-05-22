@@ -1,1 +1,1 @@
-Replace this text with your caption
+Fig. 2. Sequence of the 'right to be forgotten'.
