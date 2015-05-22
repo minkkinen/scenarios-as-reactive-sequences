@@ -8,5 +8,10 @@ Necessary and sufficient conditions (Mahoney)
 
 \citet{Abbott_1992} writes about *enchainment* rather than causality. This means the link in a story from one step to the next.
 
+Mechanism-based explanations make predicting outcomes problematic \citep{Hedstr_m_2010}.
+Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that 
+
+Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
+
 This is where the privacy protection example cannot be continued further, because understanding the mechanisms that are involved requires pruning the sequence to the most crucial events, finding which events are linked, and then examining each link critically to discover potential mechanisms.
 This effort is clearly beyond the scope of this paper.
