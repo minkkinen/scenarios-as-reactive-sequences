@@ -1,6 +1,7 @@
 In this sequence, we see the central process of legislation which defines RTBF. In addition, we see possible conjunctures with two sets of processes: security-related processes and technology development.
 According to the notion of reactive sequences, *when* each event takes place defines the continuation of the process.
 For instance, if the Snowden revelations had been made earlier or later, this could have had an influence on later decisions by the European Court of Justice.
+Another possibility is that a crucial technological step is taken at a key point, altering the credibility of legislation.
 Considering such options requires counterfactual historical thinking.
 
 So far we have considered historical processes.
