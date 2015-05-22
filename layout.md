@@ -10,6 +10,7 @@ figures/privacy-sequence/privacy-sequence.png
 In_this_sequence_we_see__.md
 figures/privacy-sequence-external/privacy-sequence-external.png
 figures/reactive-sequences-future/reactive-sequences-future.png
+In_this_figure_we_see__.md
 In_the_figure_scenario_1__.md
 Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_What_differentiates_analytic__.md
