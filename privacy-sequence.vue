@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.2.2 concept-map (privacy-sequence.vue) 2015-05-22 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/usr/share/java/vue/vue.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri May 22 15:25:13 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
+<!-- Do Not Remove: Saved date Fri May 22 15:28:24 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="privacy-sequence.vue" created="1432205393662" x="0.0" y="0.0"
     width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1432297514062" size="30353"
+    <resource referenceCreated="1432297704189" size="28931"
         spec="/home/mmin/utu/reactive-sequences/scenarios-as-reactive-sequences/privacy-sequence.vue"
         type="1" xsi:type="URLResource">
         <title>privacy-sequence.vue</title>
@@ -23,7 +23,7 @@
         label="May 2014&#xa;ECJ rules on right to&#xa;ask search engines to&#xa;remove results"
         layerID="1" created="1432205420063" x="208.0" y="293.0"
         width="130.0" height="64.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -34,7 +34,7 @@
         label="1995&#xa;EU Data Protection&#xa;Directive 95/46/EC"
         layerID="1" created="1432205664715" x="-269.125" y="167.0"
         width="115.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -45,7 +45,7 @@
         label="February 2015&#xa;Advisory Council report:&#xa;limit delisting&#xa;to Europe, increase&#xa;transparency"
         layerID="1" created="1432205915284" x="524.0" y="497.91412"
         width="141.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -56,7 +56,7 @@
         label="January 2012&#xa;European Commission&#xa;presents proposal for&#xa;EU General&#xa;Data Protection&#xa;Regulation"
         layerID="1" created="1432207147465" x="33.0" y="180.5"
         width="138.0" height="92.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -65,43 +65,14 @@
     </child>
     <child ID="15"
         label="2015/2016&#xa;expected adoption of&#xa;EU General&#xa;Data Protection&#xa;Regulation"
-        layerID="1" created="1432207252615" x="795.0" y="187.5"
+        layerID="1" created="1432207252615" x="682.0" y="187.5"
         width="125.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7634deb27f00000146ae6cee4b908df6</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
-    </child>
-    <child ID="16"
-        label="EU data protection and 'right to be forgotten'"
-        layerID="1" created="1432207291246" x="-205.0" y="73.0"
-        width="150.0" height="44.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
-        <strokeColor>#404040</strokeColor>
-        <textColor>#000000</textColor>
-        <font>SansSerif-plain-14</font>
-        <URIString>http://vue.tufts.edu/rdf/resource/7635308e7f00000146ae6ceec60ed8bc</URIString>
-        <richText>&lt;html&gt;
-  &lt;head color="#000000" style="color: #000000"&gt;
-    &lt;style type="text/css"&gt;
-      &lt;!--
-        body { margin-bottom: 0px; margin-left: 0px; font-family: Arial; margin-top: 0px; font-size: 12; margin-right: 0px; color: #000000 }
-        ol { margin-left: 30; font-family: Arial; margin-top: 6; font-size: 12; vertical-align: middle; list-style-position: outside }
-        p { margin-bottom: 0; margin-left: 0; margin-top: 0; margin-right: 0; color: #000000 }
-        ul { margin-left: 30; font-family: Arial; margin-top: 6; font-size: 12; vertical-align: middle; list-style-position: outside }
-      --&gt;
-    &lt;/style&gt;
-    
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;p color="#000000" style="color: #000000"&gt;
-      EU data protection and 'right to be forgotten'
-    &lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</richText>
-        <label>EU data protection and 'right to be forgotten'</label>
     </child>
     <child ID="18" layerID="1" created="1432207324789" x="33.900352"
         y="272.0" width="30.312382" height="36.217163" strokeWidth="1.0"
@@ -119,7 +90,7 @@
         label="March 2014&#xa;European Parliament&#xa;adopts General&#xa;Regulation:&#xa;'right to erasure'"
         layerID="1" created="1432207398312" x="209.0" y="187.5"
         width="128.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -130,7 +101,7 @@
         label="March 2010&#xa;Mario Costeja Gonz&#xe1;lez&#xa;complained about&#xa;outdated search results,&#xa;case taken to ECJ"
         layerID="1" created="1432207498432" x="-125.0" y="187.5"
         width="142.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -162,37 +133,37 @@
         <ID2 xsi:type="node">6</ID2>
     </child>
     <child ID="28"
-        label="Negotiations between&#xa;European Parliament,&#xa;European Council and&#xa;European Commission"
-        layerID="1" created="1432208059888" x="604.0" y="194.5"
-        width="138.0" height="64.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        label="Negotiations between&#xa;European Parliament,&#xa;Council and Commission"
+        layerID="1" created="1432208059888" x="513.0" y="201.5"
+        width="150.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/76412dd17f00000146ae6cee7a9b641c</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="29" layerID="1" created="1432208087676" x="741.5"
-        y="226.0" width="54.0" height="1.0" strokeWidth="1.0"
+    <child ID="29" layerID="1" created="1432208087676" x="662.5"
+        y="226.0" width="20.0" height="1.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/76412dd17f00000146ae6cee99bc9974</URIString>
-        <point1 x="742.0" y="226.5"/>
-        <point2 x="795.0" y="226.5"/>
+        <point1 x="663.0" y="226.5"/>
+        <point2 x="682.0" y="226.5"/>
         <ID1 xsi:type="node">28</ID1>
         <ID2 xsi:type="node">15</ID2>
     </child>
     <child ID="44" layerID="1" created="1432273471066" x="336.5"
-        y="226.0" width="268.0" height="1.0" strokeWidth="1.0"
+        y="226.0" width="177.0" height="1.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a28e35e7f00000146ae6ceedae77ad2</URIString>
         <point1 x="337.0" y="226.5"/>
-        <point2 x="604.0" y="226.5"/>
+        <point2 x="513.0" y="226.5"/>
         <ID1 xsi:type="node">20</ID1>
         <ID2 xsi:type="node">28</ID2>
     </child>
@@ -200,7 +171,7 @@
         label="March 2011&#xa;EU Justice&#xa;Commissioner&#xa;proposes law on&#xa;right to be forgotten"
         layerID="1" created="1432273580941" x="-56.0606" y="307.71716"
         width="116.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -279,7 +250,7 @@
         label="2014-2015&#xa;Pressure on Google from&#xa;politicians, media and civil society:&#xa;transparency, freedom&#xa;of expression, access to&#xa;information, expand delisting&#xa;to all domains"
         layerID="1" created="1432276102600" x="173.5" y="483.91412"
         width="199.0" height="106.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -290,7 +261,7 @@
         label="2009&#xa;Mayer-Sch&#xf6;nberger:&#xa;Delete: The Virtue of&#xa;Forgetting in the Digital&#xa;Age"
         layerID="1" created="1432276482708" x="-202.88637" y="490.91412"
         width="137.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -341,7 +312,7 @@
         label="May 2014&#xa;Google executives criticise&#xa;ruling, Google implements&#xa;RTBF on European&#xa;domains"
         layerID="1" created="1432276945035" x="195.0" y="385.5"
         width="156.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -388,7 +359,7 @@
         label="2000/2009&#xa;EU Charter of&#xa;Fundamental&#xa;Rights"
         layerID="1" created="1432277220710" x="-254.125" y="233.5"
         width="85.0" height="64.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -422,24 +393,24 @@
         <ID2 xsi:type="node">46</ID2>
     </child>
     <child ID="75" label="Lobbying from&#xa;interest groups" layerID="1"
-        created="1432278352974" x="627.0" y="423.5" width="92.0"
+        created="1432278352974" x="536.0" y="423.5" width="92.0"
         height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a73434a7f00000146ae6ceee45fdc16</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="76" layerID="1" created="1432278376709" x="672.5"
-        y="258.0" width="1.0" height="166.0" strokeWidth="1.0"
+    <child ID="76" layerID="1" created="1432278376709" x="582.0023"
+        y="251.0" width="5.799988" height="173.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a73434b7f00000146ae6ceee70cba02</URIString>
-        <point1 x="673.0" y="423.5"/>
-        <point2 x="673.0" y="258.5"/>
+        <point1 x="582.5023" y="423.5"/>
+        <point2 x="587.3023" y="251.5"/>
         <ID1 xsi:type="node">75</ID1>
         <ID2 xsi:type="node">28</ID2>
     </child>
@@ -447,7 +418,7 @@
         label="July 2014&#xa;Google launches&#xa;Advisory Council"
         layerID="1" created="1432289538239" x="397.25" y="511.91412"
         width="104.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -467,21 +438,22 @@
         <ID2 xsi:type="node">82</ID2>
     </child>
     <child ID="84" layerID="1" created="1432289898399" x="337.5"
-        y="242.99127" width="267.0" height="66.5025" strokeWidth="1.0"
-        autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
+        y="248.38902" width="179.40051" height="56.785553"
+        strokeWidth="1.0" autoSized="false" controlCount="0"
+        arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7b22d9ae7f0000017804b6d4afc66542</URIString>
-        <point1 x="338.0" y="308.99377"/>
-        <point2 x="604.0" y="243.49127"/>
+        <point1 x="338.0" y="304.6746"/>
+        <point2 x="516.4005" y="248.88904"/>
         <ID1 xsi:type="node">6</ID1>
         <ID2 xsi:type="node">28</ID2>
     </child>
     <child ID="85" label="Google's actions:&#xa;changed practices?"
-        layerID="1" created="1432290364515" x="708.25" y="518.9141"
+        layerID="1" created="1432290364515" x="685.5" y="518.9141"
         width="118.0" height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -489,26 +461,26 @@
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
     <child ID="86" layerID="1" created="1432290373799" x="664.5"
-        y="536.4141" width="44.25" height="1.0" strokeWidth="1.0"
+        y="536.4141" width="21.5" height="1.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7b2902147f0000017804b6d406fce05a</URIString>
         <point1 x="665.0" y="536.9141"/>
-        <point2 x="708.25" y="536.9141"/>
+        <point2 x="685.5" y="536.9141"/>
         <ID1 xsi:type="node">11</ID1>
         <ID2 xsi:type="node">85</ID2>
     </child>
-    <child ID="91" layerID="1" created="1432297407013" x="771.9834"
-        y="265.0" width="74.677734" height="254.41406" strokeWidth="1.0"
+    <child ID="91" layerID="1" created="1432297407013" x="744.0"
+        y="265.0" width="1.0" height="254.41412" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="3" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7b942d397f0000017804b6d4e94cc315</URIString>
-        <point1 x="846.16113" y="265.5"/>
-        <point2 x="772.4834" y="518.91406"/>
+        <point1 x="744.5" y="265.5"/>
+        <point2 x="744.5" y="518.9141"/>
         <ID1 xsi:type="node">15</ID1>
         <ID2 xsi:type="node">85</ID2>
     </child>
