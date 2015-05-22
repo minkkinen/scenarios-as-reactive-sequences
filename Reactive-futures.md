@@ -6,4 +6,4 @@ Taking an example from privacy protection, my own area of research, we could con
 
 A sequence is always one part of a historical chain which stretches into the past and the future. Cutting off a discrete sequence from this continuum is always somewhat artificial.
 
-In the case of RTBF, a logical starting point are two legal documents, the EU Data Protection Directive \cite{eu-directive}and the EU Charter of Fundamental Rights \cite{eu-charter}, because these documents crystallise a long debate about the right to privacy.
+In the case of RTBF, a logical starting point are two legal documents, the EU Data Protection Directive \citep{eu-directive} and the EU Charter of Fundamental Rights \citep{eu-charter}, because these documents crystallise a long debate about the right to privacy.
