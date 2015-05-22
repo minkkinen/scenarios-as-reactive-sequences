@@ -1,1 +1,1 @@
-Scenarios as Reactive Sequences: Lessons from Historical Social Science
+Scenarios as Narratives of Reactive Sequences: Lessons from Historical Social Science
