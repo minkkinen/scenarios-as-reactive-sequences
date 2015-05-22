@@ -6,7 +6,7 @@ Narrative is also a central aspect of causal layered analysis, especially on the
 Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios.
 
 However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep{Burnam_Fink_2014}.
-Likewise, historians may consider their task as creating literary narratives, and thus their primary interest is in literary representations of events rather than events as such \citep{staley2007history}.
+Likewise, some historians are primarily interested in literary and linguistic representations of events rather than sequences of events as such \citep{staley2007history}.
 Narratives are important, but they should be understood within the frame of narrative *explanation*, which is a social scientific attempt to link narrative to causal explanation and thus bring narrative closer to scientific realism.
 As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)".
 In a way, social reality then *is* a narrative.
