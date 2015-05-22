@@ -2,8 +2,8 @@
 
 Two aspects of scenario content are particularly important:
 
-1. the distinction between snapshot and sequence scenarios and
-2. the distinction between external and strategic scenarios.
+1. the distinction between snapshot and sequence scenarios \citep{van_Notten_2003} and
+2. the distinction between external and strategic scenarios \citep{B_rjeson_2006}.
 
 A basic distinction among scenarios is the distinction between scenarios as snapshots and scenarios as sequences or development paths. \citet{Bishop_2007} call the first category end state or 'day in the life' scenarios, and the second category is titled chain scenarios or future histories. It would perhaps be more appropriate to have separate terms for these types, but both types of scenarios are well represented in futures research and both have important roles.
 
@@ -14,3 +14,4 @@ Of course, the success of the GBN technique is partly due to the fact that it is
 In this paper, scenarios are considered as sequences of events or paths of development rather than end-points. This is because the perspectives of time, sequence and duration are important in understanding social change from a social scientific perspective \citep{sztompka1993sociology}. The notion of scenarios as sequences goes back to the roots of scenario thinking in Herman Kahn's writings on scenarios \citep{kahn1967year}.
 Scenario techniques within this tradition include probability trees, sociovision and divergence mapping \citep{Bishop_2007}.
 
+Concerning the second distinction between external/strategic, the arguments in this paper mostly relate to external scenarios, focusing on the developments in the societal surroundings.
