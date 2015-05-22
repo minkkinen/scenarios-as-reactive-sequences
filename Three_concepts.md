@@ -1,4 +1,4 @@
-## Three concepts from historical social science
+# Three concepts from historical social science
 
 Scenario approaches need to be grounded in a solid social scientific basis, and the development of scenario techniques should follow developments in the social sciences. The argument has been made many times that history and futures research are parallel fields with strong links \cite[e.g.]{Kaivo_oja_2004,staley2007history}. In particular, historical social science provides a fruitful juxtaposition with scenario building. In recent decades, there have been discussions within historical social science which could have much to offer for scenario building. In the following, I will assess the meaning of three central concepts from historical social science: *reactive sequences*, *narrative explanation* and *causal mechanisms*. I am not claiming that these concepts have never been used in futures research, but their implications for scenario thinking have thus far not been systematically considered.
 
