@@ -1,1 +1,1 @@
-Replace this text with your caption
+Fig. 2. Reactive sequence continued into the future.
