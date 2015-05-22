@@ -1,4 +1,4 @@
-In this figure, we see other sequences or processes: security-related processes, technology development and transnational commercial treaties.
+In this figure, we see other relevant sequences or processes: security-related processes, technology development and transnational commercial treaties.
 It is plausible that these processes intersect and form a conjuncture with the process in the previous figure.
 According to the notion of reactive sequences, *when* events and conjunctures take place defines the continuation of the process.
 For instance, if the Snowden revelations had been made earlier or later, this could have had an influence on later decisions by the European Court of Justice.
