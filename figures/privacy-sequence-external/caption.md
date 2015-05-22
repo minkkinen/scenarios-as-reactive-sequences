@@ -1,1 +1,1 @@
-Replace this text with your caption
+Fig. 4. External processes to the 'right to be forgotten'.
