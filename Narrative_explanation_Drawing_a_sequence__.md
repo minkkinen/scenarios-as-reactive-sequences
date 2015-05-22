@@ -1,4 +1,4 @@
-### Narrative explanation
+## Narrative explanation
 
 Drawing a sequence of linked events is not enough for building scenarios: events must be linked together by a narrative. Thus the second concept from historical social science is narrative explanation, which is closely related to historical thinking.
 Of course, narrative is central to scenario thinking in general. \citet[][39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing out of the scenario variables \citep[e.g.]{Heinonen_2013,schwartz1996art}.
