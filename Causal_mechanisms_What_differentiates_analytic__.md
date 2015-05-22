@@ -9,7 +9,7 @@ Necessary and sufficient conditions (Mahoney)
 \citet{Abbott_1992} writes about *enchainment* rather than causality. This means the link in a story from one step to the next.
 
 Mechanism-based explanations make predicting outcomes problematic \citep{Hedstr_m_2010}.
-Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that 
+Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that scenario analysts need to consider the entire chain rather than jumping to the outcome (a structural description of the future).
 
 Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
 
