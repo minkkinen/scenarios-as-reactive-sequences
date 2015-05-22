@@ -2,6 +2,8 @@ The strength of futurists is that we are accustomed to thinking in processual te
 
 In many scenario approaches, scenarios are creatively written stories that open stakeholders' views concerning the future \citep{schwartz1996art}. While scenarios are always stories, the sequences and change processes to which they refer can be viewed in at least moderately realist terms. There are actual transformations happening in society, not only in cognitive representations of society. Nonetheless, realism cannot be conceived naively within futures research, because the shape of the emerging future depends largely on how actors envision it in the present. In recent decades, this realist position has been discussed by several authors, highlighting for instance dispositions, affordances and latent possibilities within structures \cite{bell1997foundations, patomaki2006realist, poli2011steps}.
 
-Taking an example from privacy protection, my own area of research, we could consider 
+Taking an example from privacy protection, my own area of research, we could consider the so-called *right to be forgotten* (RTBF) which has been actively discussed especially within Europe in recent years.
 
-A scenario is always one part of a historical chain which stretches into the past and the future. Cutting off a discrete scenario from this continuum is always somewhat artificial.
+A sequence is always one part of a historical chain which stretches into the past and the future. Cutting off a discrete sequence from this continuum is always somewhat artificial.
+
+In the case of RTBF, a logical starting point are two legal documents, the EU Data Protection Directive and the EU Charter of Fundamental Rights, because these documents crystallise a long debate about the right to privacy.
