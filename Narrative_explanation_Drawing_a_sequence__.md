@@ -1,11 +1,11 @@
 ## Narrative explanation
 
 Drawing a sequence of linked events is not enough for building scenarios: events must be linked together by a narrative. Thus the second concept from historical social science is narrative explanation, which is closely related to historical thinking.
-Of course, narrative is central to scenario thinking in general. \citet[][39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing out of the scenario variables \citep[e.g.]{Heinonen_2013,schwartz1996art}.
+Of course, narrative is central to scenario thinking in general. \citet[][39]{schwartz1996art} defines scenarios as "stories that give meaning to events". Scenarios usually contain a scenario narrative, understood as the fleshing out of the scenario variables \citep{Heinonen_2013,schwartz1996art}.
 Narrative is also a central aspect of causal layered analysis, especially on the myth/metaphor layer where futures are articulated as stories \citep{inayatullah1998causal}.
 Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural narratives underlying scenarios.
 
-However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.]{Burnam_Fink_2014}.
+However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep[e.g.][]{Burnam_Fink_2014}.
 Likewise, historians may consider their task as creating literary narratives, and thus their primary interest is in literary representations of events rather than events as such \citep{staley2007history}.
 Narratives are important, but they should be understood within the frame of narrative *explanation*, which is a social scientific attempt to link narrative to causal explanation and thus bring narrative closer to scientific realism.
 As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)".
