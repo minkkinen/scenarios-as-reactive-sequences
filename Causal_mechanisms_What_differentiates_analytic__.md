@@ -1,4 +1,4 @@
-### Causal mechanisms
+## Causal mechanisms
 
 What differentiates analytic narratives from literary narratives is that they are more explicit in explaining how events are linked to one another.
 Here, historical social scientists use the term *causal mechanisms*.
