@@ -24,3 +24,5 @@ The goal of narrative explanation or analytic narratives is generalisation of se
 Scenarios should be explicitly event and sequence-oriented, outlining possible future event sequences, branching points and conjunctures (see Fig. 2).
 
 A sensible solution seems to be that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
+
+In the case of the right to be forgotten, how could we explain the developments in a narrative manner? This would require extensive empirical research which goes beyond the scope of this paper, but some preliminary remarks may be made.
