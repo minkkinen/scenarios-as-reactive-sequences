@@ -39,8 +39,8 @@ Generalising a sequence means looking at it in more abstract terms, removing con
 Different approaches to generalisation have been proposed by Abell and Heise, for example \citep{Abbott_1992}.
 The metaphor of a musical sequence, where a melodic pattern is repeated at different pitches, is apt here.
 
-Clearly the RTBF case can be expressed as a narrative with protagonists and key events, but can it be made into an analytic narrative?
-In the RTBF case, generalisation means generalising the actors: for example considering "data controllers" rather than Google and "legislators" rather than the European Parliament.
-For a tentative list of such privacy actors, see \citet[][219--220]{bennett2006governance}.
-Secondly, it means hypothesising more general forms of links between events, in the form of causal mechanisms.
+Clearly the case of the 'right to be forgotten' can be expressed as a narrative with protagonists and key events, but can it be made into an analytic narrative?
+For this purpose, the actors would need to be viewed more generally, considering "data controllers" rather than Google and "legislators" rather than the European Parliament.
+For a tentative list of general privacy actors, see \citet[][219--220]{bennett2006governance}.
+Secondly, one would need to hypothesise about theoretical links between events, in the form of causal mechanisms.
 I will turn to this concept next.
