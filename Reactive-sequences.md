@@ -1,4 +1,4 @@
-### Reactive sequences
+## Reactive sequences
 
 If scenarios are viewed as sequences, what does this mean? A sequence can consist of any kind of elements which somehow link to one another. In the following, I would like to specify the type of sequence that a scenario describes. I will argue that a scenario should be viewed as a narrative of a *reactive sequence*.
 
