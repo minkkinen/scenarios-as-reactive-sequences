@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.2.2 concept-map (privacy-sequence.vue) 2015-05-22 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/usr/share/java/vue/vue.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri May 22 15:28:24 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
+<!-- Do Not Remove: Saved date Fri May 22 15:31:33 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="privacy-sequence.vue" created="1432205393662" x="0.0" y="0.0"
     width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1432297704189" size="28931"
+    <resource referenceCreated="1432297893424" size="29060"
         spec="/home/mmin/utu/reactive-sequences/scenarios-as-reactive-sequences/privacy-sequence.vue"
         type="1" xsi:type="URLResource">
         <title>privacy-sequence.vue</title>
@@ -183,7 +183,7 @@
         width="134.0" height="30.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
         <textColor>#000000</textColor>
-        <font>SansSerif-plain-14</font>
+        <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a3be8f47f00000146ae6cee5c9b4e14</URIString>
         <richText>&lt;html&gt;
   &lt;head color="#000000" style="color: #000000"&gt;
@@ -199,7 +199,7 @@
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p color="#000000" style="color: #000000"&gt;
-      Legislative and political processes
+      &lt;font style="font-size:16;"&gt;Legislative and political processes&lt;/font&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -207,11 +207,11 @@
         <label>Legislative and political processes</label>
     </child>
     <child ID="56" label="Civil society and academia" layerID="1"
-        created="1432274857221" x="-424.5" y="535.0" width="150.0"
-        height="16.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
+        created="1432274857221" x="-424.5" y="515.0" width="150.0"
+        height="40.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
         <textColor>#000000</textColor>
-        <font>SansSerif-plain-14</font>
+        <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a3c06b77f00000146ae6cee8b07eabc</URIString>
         <richText>&lt;html&gt;
   &lt;head color="#000000" style="color: #000000"&gt;
@@ -227,7 +227,7 @@
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p color="#000000" style="color: #000000"&gt;
-      Civil society and academia
+      &lt;font style="font-size:16;"&gt;Civil society and academia&lt;/font&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -273,7 +273,7 @@
         height="16.0" strokeWidth="0.0" autoSized="false" xsi:type="text">
         <strokeColor>#404040</strokeColor>
         <textColor>#000000</textColor>
-        <font>SansSerif-plain-14</font>
+        <font>Arial-plain-16</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a566ca67f00000146ae6cee4422ee4c</URIString>
         <richText>&lt;html&gt;
   &lt;head color="#000000" style="color: #000000"&gt;
@@ -289,7 +289,7 @@
   &lt;/head&gt;
   &lt;body&gt;
     &lt;p color="#000000" style="color: #000000"&gt;
-      Google's actions
+      &lt;font style="font-size:16;"&gt;Google's actions&lt;/font&gt;
     &lt;/p&gt;
   &lt;/body&gt;
 &lt;/html&gt;
@@ -393,7 +393,7 @@
         <ID2 xsi:type="node">46</ID2>
     </child>
     <child ID="75" label="Lobbying from&#xa;interest groups" layerID="1"
-        created="1432278352974" x="536.0" y="423.5" width="92.0"
+        created="1432278352974" x="542.0" y="446.5" width="92.0"
         height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
@@ -402,15 +402,15 @@
         <URIString>http://vue.tufts.edu/rdf/resource/7a73434a7f00000146ae6ceee45fdc16</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="76" layerID="1" created="1432278376709" x="582.0023"
-        y="251.0" width="5.799988" height="173.0" strokeWidth="1.0"
+    <child ID="76" layerID="1" created="1432278376709" x="587.5"
+        y="251.0" width="1.0" height="196.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7a73434b7f00000146ae6ceee70cba02</URIString>
-        <point1 x="582.5023" y="423.5"/>
-        <point2 x="587.3023" y="251.5"/>
+        <point1 x="588.0" y="446.5"/>
+        <point2 x="588.0" y="251.5"/>
         <ID1 xsi:type="node">75</ID1>
         <ID2 xsi:type="node">28</ID2>
     </child>
@@ -451,7 +451,7 @@
         <ID2 xsi:type="node">28</ID2>
     </child>
     <child ID="85" label="Google's actions:&#xa;changed practices?"
-        layerID="1" created="1432290364515" x="685.5" y="518.9141"
+        layerID="1" created="1432290364515" x="685.5" y="408.91412"
         width="118.0" height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
         <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
@@ -460,27 +460,27 @@
         <URIString>http://vue.tufts.edu/rdf/resource/7b2902147f0000017804b6d4355063ef</URIString>
         <shape arcwidth="20.0" archeight="20.0" xsi:type="roundRect"/>
     </child>
-    <child ID="86" layerID="1" created="1432290373799" x="664.5"
-        y="536.4141" width="21.5" height="1.0" strokeWidth="1.0"
+    <child ID="86" layerID="1" created="1432290373799" x="647.1818"
+        y="444.41412" width="73.272705" height="54.0" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="2" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7b2902147f0000017804b6d406fce05a</URIString>
-        <point1 x="665.0" y="536.9141"/>
-        <point2 x="685.5" y="536.9141"/>
+        <point1 x="647.6818" y="497.91412"/>
+        <point2 x="719.9545" y="444.91412"/>
         <ID1 xsi:type="node">11</ID1>
         <ID2 xsi:type="node">85</ID2>
     </child>
     <child ID="91" layerID="1" created="1432297407013" x="744.0"
-        y="265.0" width="1.0" height="254.41412" strokeWidth="1.0"
+        y="265.0" width="1.0" height="144.41412" strokeWidth="1.0"
         autoSized="false" controlCount="0" arrowState="3" xsi:type="link">
         <strokeColor>#404040</strokeColor>
         <textColor>#404040</textColor>
         <font>Arial-plain-11</font>
         <URIString>http://vue.tufts.edu/rdf/resource/7b942d397f0000017804b6d4e94cc315</URIString>
         <point1 x="744.5" y="265.5"/>
-        <point2 x="744.5" y="518.9141"/>
+        <point2 x="744.5" y="408.91412"/>
         <ID1 xsi:type="node">15</ID1>
         <ID2 xsi:type="node">85</ID2>
     </child>

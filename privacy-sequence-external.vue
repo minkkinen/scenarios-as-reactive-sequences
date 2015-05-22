@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.2.2 concept-map (privacy-sequence-external.vue) 2015-05-22 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/usr/share/java/vue/vue.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri May 22 13:57:42 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
+<!-- Do Not Remove: Saved date Fri May 22 15:32:30 EEST 2015 by mmin on platform Linux 4.0.3-1-ARCH in JVM 1.7.0_79-b14 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built May 23 2013 at 2146 by tomadm on Linux 2.6.18-348.2.1.el5 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0"
     label="privacy-sequence-external.vue" created="1432205393662"
     x="0.0" y="0.0" width="1.4E-45" height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1432292262990" size="27336"
+    <resource referenceCreated="1432297950345" size="27497"
         spec="/home/mmin/utu/reactive-sequences/scenarios-as-reactive-sequences/privacy-sequence-external.vue"
         type="1" xsi:type="URLResource">
         <title>privacy-sequence-external.vue</title>
@@ -23,7 +23,7 @@
         label="June 2013&#xa;Snowden documents&#xa;published by media"
         layerID="1" created="1432207827683" x="150.94571" y="460.50757"
         width="127.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -34,7 +34,7 @@
         label="July 2013&#xa;Angela Merkel calls&#xa;for strict European&#xa;data protection&#xa;agreement"
         layerID="1" created="1432208143502" x="303.298" y="446.50757"
         width="118.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -57,7 +57,7 @@
         label="Surveillance practices&#xa;by security agencies"
         layerID="1" created="1432272805796" x="-22.67677" y="467.50757"
         width="131.0" height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -91,7 +91,7 @@
     <child ID="42" label="January 2015&#xa;Terror attack in&#xa;Paris"
         layerID="1" created="1432273081970" x="462.2526" y="460.50757"
         width="92.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -158,7 +158,7 @@
         label="Evolution of ICTs:&#xa;big data processing,&#xa;encryption, ..."
         layerID="1" created="1432276282403" x="-233.83585" y="579.0658"
         width="121.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -182,7 +182,7 @@
         label="April 2014&#xa;ECJ rules that Data&#xa;Retention Directive&#xa;violates fundamental&#xa;rights"
         layerID="1" created="1432277517336" x="274.52792" y="234.48987"
         width="125.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -192,7 +192,7 @@
     <child ID="77" label="2006&#xa;EU Data Retention&#xa;Directive"
         layerID="1" created="1432278605946" x="-171.40407" y="349.59338"
         width="113.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -215,7 +215,7 @@
         label="Terror attacks:&#xa;- 2001 New York&#xa;- 2004 Madrid&#xa;- 2005 London"
         layerID="1" created="1432278643483" x="-303.17926" y="453.50757"
         width="102.0" height="64.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -226,7 +226,7 @@
         label="June 2014&#xa;UN High Commissioner&#xa;for Human Rights:&#xa;&quot;The right to privacy in&#xa;the digital age&quot;"
         layerID="1" created="1432290932931" x="406.4886" y="335.59338"
         width="142.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -237,7 +237,7 @@
         label="December 2013&#xa;UN General Assembly adopted a&#xa;resolution which expresses deep&#xa;concerns at impact of surveillance&#xa;on human rights"
         layerID="1" created="1432290932931" x="116.44571" y="335.59338"
         width="196.0" height="78.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -284,7 +284,7 @@
         label="Security issues are&#xa;on top of the&#xa;political agenda"
         layerID="1" created="1432291000938" x="-171.90407" y="460.50757"
         width="114.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -307,7 +307,7 @@
         label="Security issues&#xa;likely to climb on the&#xa;political agenda"
         layerID="1" created="1432291070602" x="599.71436" y="460.50757"
         width="122.0" height="50.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -371,7 +371,7 @@
         label="Fears that trade&#xa;agreements may&#xa;undermine EU&#xa;data protection"
         layerID="1" created="1432291322790" x="191.8863" y="631.96484"
         width="104.0" height="64.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -409,7 +409,7 @@
     <child ID="100" label="March 2013 ->&#xa;TiSA negotiations"
         layerID="1" created="1432291620100" x="12.4418335" y="695.2981"
         width="107.0" height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
@@ -419,7 +419,7 @@
     <child ID="101" label="February 2014 ->&#xa;TTIP negotiations"
         layerID="1" created="1432291705756" x="14.36113" y="644.4396"
         width="106.0" height="36.0" strokeWidth="1.0" autoSized="true" xsi:type="node">
-        <fillColor>#8AEE95</fillColor>
+        <fillColor>#E6F7FD</fillColor>
         <strokeColor>#0877C0</strokeColor>
         <textColor>#000000</textColor>
         <font>Arial-plain-12</font>
