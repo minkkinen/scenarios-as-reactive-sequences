@@ -14,7 +14,7 @@ The third key benefit is that the understanding of scenarios as narratives of re
 On the other hand, the approach of scenarios as narratives of reactive sequences has some shortcomings and several unexplored areas. First the shortcomings. The time horizon cannot be very long, as the number of events would multiply uncontrollably and arguing for a limited number of scenarios would become impossible. Secondly, this approach is not suitable for all topics. The approach of narrative explanation is intended to explain intentional human action in complex social systems. For modelling environmental systems and other natural phenomena, other approaches are more appropriate because nature follows laws and mechanisms that are different from the mechanisms of human action.
 
 As for the unexplored areas, this approach is at an early stage of formulation and it has not shown its practical feasibility. Scenario building is also practical activity, and often it is equally important that approaches are feasible in practice than formally appropriate.
-Secondly, the connections to formal methods such as probability trees and Markov chains have not been explored.
+Secondly, the connections to formal methods such as probability trees, agent-based modelling and Markov chains have not been explored.
 
 In addition, I have not considered actors' subjective understandings of time and of social processes.
 In order to fully understand historical sequences and potential future sequences, subjective temporal orientations would also need to be taken into account \citep{Aminzade_1992}.
