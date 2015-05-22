@@ -1,1 +1,1 @@
-Fig. 4. External processes to the 'right to be forgotten'.
+Fig. 3. External processes to the 'right to be forgotten'.
