@@ -1,1 +1,1 @@
-Fig. 1. Sequence and conjuncture \citep[][529]{mahoney2000path}
+Sequence and conjuncture \citep[][529]{mahoney2000path}
