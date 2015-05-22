@@ -6,6 +6,7 @@ Three_concepts.md
 Reactive-sequences.md
 figures/reactive-sequences-copy1/reactive-sequences-copy1.png
 Reactive-futures.md
+figures/privacy-sequence/privacy-sequence.png
 In_this_sequence_we_see__.md
 figures/reactive-sequences-future/reactive-sequences-future.png
 In_the_figure_scenario_1__.md
