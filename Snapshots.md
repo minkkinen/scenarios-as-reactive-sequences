@@ -14,6 +14,3 @@ Of course, the success of the GBN technique is partly due to the fact that it is
 In this paper, scenarios are considered as sequences of events or paths of development rather than end-points. This is because the perspectives of time, sequence and duration are important in understanding social change from a social scientific perspective \citep{sztompka1993sociology}. The notion of scenarios as sequences goes back to the roots of scenario thinking in Herman Kahn's writings on scenarios \citep{kahn1967year}.
 Scenario techniques within this tradition include probability trees, sociovision and divergence mapping \citep{Bishop_2007}.
 
-In the following, I will explore the implications of central concepts from historical social science on scenarios understood as sequences.
-
-The interesting thing is that \citet[][77]{staley2007history} states that discovering a pattern in events is impossible, and thus researchers need to capture the larger structure that emerges from these events. In a way, my approach is exactly opposite to this. We cannot predict events, but we can make conditional forecasts about *types of events*. According to mechanism-based and sequence-based approaches, researchers cannot predict outcomes without breaking the explanation down into smaller bits and explaining the links between these.
