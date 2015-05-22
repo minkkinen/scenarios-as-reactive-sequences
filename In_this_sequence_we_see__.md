@@ -7,4 +7,4 @@ Considering such options requires counterfactual historical thinking.
 So far we have considered historical processes.
 How could we envision scenarios of the future?
 Scenarios can be likened to counterfactual history because they exhibit the same kind of thinking about plausible potential events which have not taken place \citep{Booth_2009}.
-Fig. 3 displays a hypothetical future sequence starting from the simple sequence in Fig. 1.
+Figure 3 displays a hypothetical future sequence starting from the simple sequence in figure 1.
