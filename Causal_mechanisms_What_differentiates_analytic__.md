@@ -8,7 +8,7 @@ According to \citet[][291]{Abell_2004}, the notion of singular causality is appr
 
 There are various definitions of mechanisms but the general idea is usually the same: opening the 'black box' of causal explanation and explaining *how* certain phenomena bring about other phenomena \citep{Hedstr_m_2010}.
 In reactive sequences, this means having a theoretical explanation for the connections between the nodes in the event sequence. Each step is either a necessary or sufficient condition for the next step \citep{mahoney2000path}.
-A sequence of events is thus at the same time a sequence of causal mechanisms.
+A sequence of events is thus at the same time a sequence of causal mechanisms. Mechanisms are usually thought to be at least relatively general, and therefore they are crucial for generalising analytic narratives.
 
 For scenario building, an important point is that mechanism-based explanations make predicting outcomes problematic. Mechanisms allow explanation but not prediction, because we cannot know with certainty which mechanisms will be activated in a particular situation \citep{Hedstr_m_2010}.
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that scenario analysts need to consider the entire chain rather than jumping to the outcome (a structural description of the future).
