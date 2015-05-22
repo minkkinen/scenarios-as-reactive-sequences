@@ -21,12 +21,15 @@ These definitions are very similar, and both forms aim to scientifically explain
 In the following, I will use the term analytic narrative.
 
 The connection between narratives and reactive sequences is that narratives are representations of a sequence.
-They tell the story of a sequence of events but in a theoretically informed way.
-Analytic narratives give meaning to sequences by explaining the temporal connections among events \citep{Aminzade_1992}.
-The difficult question is which are the most important events, the crucial nodes in the sequence.
-The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to such crucial events \citep{Capoccia_2007}. These are critical choice points which radically alter the direction of a process. To some extent, they could be likened to black swans or wild cards within futures research, but perhaps they need not be as dramatic. In reality, it is usually difficult to identify clear critical junctures, and therefore it may be more suitable to consider criticality of events as a continuum. \citet{mahoney2000path} makes the point that critical events are contingent, that is, they cannot be predicted with existing theory. My hypothesis is that substantive theory of the topic is needed for identifying crucial events.
+They tell the story of a sequence of events in a theoretically informed way.
+The difficult question is which are the most important events for the narrative.
+The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to crucial events which trigger path-dependent processes \citep{Capoccia_2007}. To some extent, they could be likened to black swans or wild cards within futures research.
+However, a rigid distinction between critical junctures and path-dependent development may not be appropriate in many cases.
 
-In order to construct a plausible narrative explanation, the scenario analyst needs to get acquainted with substantive theories on the topic that is studied, what \citet{piirainen2015theory} refer to as using theory within foresight. The events in the actual historical development of the phenomenon also need to be known. Narratives are most fruitful when they present mid-level events with a delimited geographical and substantial scope, neither grand master narratives nor simply lists of individual events.
+\citet{mahoney2000path} makes the point that critical events are contingent, that is, they cannot be predicted with existing theory.
+Thus in order to construct a plausible narrative explanation, the scenario analyst needs to get acquainted with substantive theories on the topic that is studied, what \citet{piirainen2015theory} refer to as using theory within foresight.
+The events in the actual historical development of the phenomenon also need to be known.
+Narratives are most fruitful when they present mid-level events with a delimited geographical and substantial scope, neither grand master narratives nor simply lists of individual events.
 
 The goal of narrative explanation and analytic narratives is generalisation of sequence types.
 If every sequence is entirely unique, they do not provide useful material for scenario building apart from demonstrating the historical context for future paths.
