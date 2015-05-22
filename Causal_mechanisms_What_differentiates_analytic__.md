@@ -13,5 +13,9 @@ A sequence of events is thus at the same time a sequence of causal mechanisms.
 For scenario building, an important point is that mechanism-based explanations make predicting outcomes problematic. Mechanisms allow explanation but not prediction, because we cannot know with certainty which mechanisms will be activated in a particular situation \citep{Hedstr_m_2010}.
 Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that scenario analysts need to consider the entire chain rather than jumping to the outcome (a structural description of the future).
 
+Interestingly, \citet[][77]{staley2007history} argues for structural rather than event-based scenarios, stating that discovering a pattern in events is impossible, and thus researchers need to capture the larger structure that emerges from events.
+In a way, the argument in this paper is exactly the opposite.
+We cannot predict events or outcomes, but we can make conditional forecasts about types of events and event sequences.
+
 This is where the privacy protection example cannot be continued further, because understanding the mechanisms that are involved requires pruning the sequence to the most crucial events, finding which events are linked, and then examining each link critically to discover potential mechanisms.
 This effort is clearly beyond the scope of this paper.
