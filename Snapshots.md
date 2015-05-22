@@ -1,6 +1,4 @@
-## Snapshots and sequences
-
-Two aspects of scenario content are particularly important:
+Two aspects of scenarios are particularly important:
 
 1. the distinction between snapshot and sequence scenarios \citep{van_Notten_2003} and
 2. the distinction between external and strategic scenarios \citep{B_rjeson_2006}.
