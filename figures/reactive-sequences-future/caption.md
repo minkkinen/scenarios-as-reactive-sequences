@@ -1,1 +1,1 @@
-Fig. 4. Reactive sequence continued into the future.
+Reactive sequence continued into the future.
