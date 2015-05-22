@@ -17,12 +17,20 @@ Singular causality: transformative power of human actions. Narrative explanation
 
 Graph: what are the nodes and edges? nodes = conditions, states of the world (events?); edges = enchainment, causal mechanisms (or events?)
 
-In order to construct a plausible narrative explanation, the scenario analyst needs to get acquainted with substantive theories on the topic that is studied, what \citet{piirainen2015theory} refer to as using theory within foresight. The events in the actual historical development of the phenomenon also need to be known.
+In order to construct a plausible narrative explanation, the scenario analyst needs to get acquainted with substantive theories on the topic that is studied, what \citet{piirainen2015theory} refer to as using theory within foresight. The events in the actual historical development of the phenomenon also need to be known. Narratives are most fruitful when they present mid-level events with a delimited geographical and substantial scope, neither grand master narratives nor simply lists of individual events.
 
-The goal of narrative explanation or analytic narratives is generalisation of sequence types. History certainly does not repeat itself, but it is plausible that similar types of processes may occur at different times and in different places, if the conditions are sufficiently similar. They may even take the form of "robust processes" that occur in similar ways across a wide spectrum of time and place \citep{Aminzade_1992}. The metaphor of a musical sequence, where a melodic pattern is repeated at different pitches, is apt here.
+The goal of narrative explanation and analytic narratives is generalisation of sequence types.
+If every sequence is entirely unique, they do not provide useful material for scenario building apart from demonstrating the historical context for future paths.
+History certainly does not repeat itself, but it is plausible that similar types of processes may occur at different times and in different places, if the conditions are sufficiently similar.
+They may even take the form of "robust processes" that occur in similar ways across a wide spectrum of time and place \citep{Aminzade_1992}.
+Generalising a sequence means looking at it in more abstract terms, removing contextual features to reveal the essence of the narrative.
+Different approaches to generalisation have been proposed by Abell and Heise, for example \citep{Abbott_1992}.
+The metaphor of a musical sequence, where a melodic pattern is repeated at different pitches, is apt here.
 
-Scenarios should be explicitly event and sequence-oriented, outlining possible future event sequences, branching points and conjunctures (see Fig. 2).
+Clearly the RTBF case can be expressed as a narrative with protagonists and key events, but can it be made into an analytic narrative?
+In the RTBF case, generalisation means generalising the actors: for example considering "data controllers" rather than Google and "legislators" rather than the European Parliament.
+For a tentative list of such privacy actors, see \citet[][219--220]{bennett2006governance}.
+Secondly, it means hypothesising more general forms of links between events, in the form of causal mechanisms.
+I will turn to this concept next.
 
-A sensible solution seems to be that narrative explanations make use of mid-level narratives that are neither lists of single events nor grand global stories. This means for instance studying a particular institution in a geographical area at some point in history. I will create a sketch of this kind of discussion in the section on privacy protection below.
 
-In the case of the right to be forgotten, how could we explain the developments in a narrative manner? This would require extensive empirical research which goes beyond the scope of this paper, but some preliminary remarks may be made.
