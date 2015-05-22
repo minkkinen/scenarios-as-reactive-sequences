@@ -10,11 +10,6 @@ In the narrative explanatory mode, the task of a social scientist is to build an
 
 The connection between narratives and reactive sequences is that narratives are representations *of* a sequence -- they tell the story of a sequence of events but in a theoretically informed way. Analytic narratives give meaning to sequences by explaining the temporal connections among events \citep{Aminzade_1992}. The difficult question is which are the most important events, the crucial nodes in the sequence. The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to such crucial events \citep{Capoccia_2007}. These are critical choice points which radically alter the direction of a process. To some extent, they could be likened to black swans or wild cards within futures research, but perhaps they need not be as dramatic. In reality, it is usually difficult to identify clear critical junctures, and therefore it may be more suitable to consider criticality of events as a continuum. \citet{mahoney2000path} makes the point that critical events are contingent, that is, they cannot be predicted with existing theory. My hypothesis is that substantive theory of the topic is needed for identifying crucial events.
 
-Mechanism-based explanations make predicting outcomes problematic \citep{Hedstr_m_2010}.
-Narrative explanation: chain of linked events leading to a conclusion that is not predictable \citep[][289]{Abell_2004}. This means that 
-
-Singular causality: transformative power of human actions. Narrative explanation only works with human action (Abell)?
-
 Graph: what are the nodes and edges? nodes = conditions, states of the world (events?); edges = enchainment, causal mechanisms (or events?)
 
 In order to construct a plausible narrative explanation, the scenario analyst needs to get acquainted with substantive theories on the topic that is studied, what \citet{piirainen2015theory} refer to as using theory within foresight. The events in the actual historical development of the phenomenon also need to be known. Narratives are most fruitful when they present mid-level events with a delimited geographical and substantial scope, neither grand master narratives nor simply lists of individual events.
