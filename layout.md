@@ -8,6 +8,7 @@ figures/reactive-sequences-copy1/reactive-sequences-copy1.png
 Reactive-futures.md
 In_this_sequence_we_see__.md
 figures/reactive-sequences-future/reactive-sequences-future.png
+In_the_figure_scenario_1__.md
 Narrative_explanation_The_second_concept__.md
 Causal_mechanisms_What_differentiates_analytic__.md
 Discussion_The_aim_of_this__.md
