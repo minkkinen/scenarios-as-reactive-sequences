@@ -4,7 +4,7 @@ The aim of this paper was to discuss the implications of understanding scenarios
 This understanding was illustrated with the example of the right to be forgotten.
 As I mentioned earlier, the notion of scenarios as event sequences is nothing new.
 What, then, is the novelty value of this paper?
-Bringing in the concepts of reactive sequences, narrative explanation and causal mechanisms has three key benefits for futures research: 1) breaking processes into sequences, 2) clarifying causal claims and 3) highlighting the importance of timing and order.
+Bringing in the concepts of reactive sequences, narrative explanation and causal mechanisms has three key benefits for futures research: 1) breaking processes into sequences, 2) clarifying claims about causality and 3) highlighting the importance of timing and order of events.
 
 The first benefit is that these concepts allow to break macro-level change processes into sequences of events, thus lowering the level of abstraction and enabling a more finegrained understanding of the underlying system that produces observable trends.
 Secondly, these concepts, particularly the concept of causal mechanisms, allow futures researchers to be more specific about the causal claims that are made concerning links between events.
