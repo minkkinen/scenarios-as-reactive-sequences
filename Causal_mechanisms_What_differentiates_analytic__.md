@@ -20,7 +20,9 @@ Scenarios can also be built "brick by brick", based on scientific knowledge and 
 
 Interestingly, \citet[][77]{staley2007history} argues for structural rather than event-based scenarios, stating that discovering a pattern in events is impossible, and thus researchers need to capture the larger structure that emerges from events.
 In a way, the argument in this paper is exactly the opposite.
-We cannot predict events or outcomes, but we can make conditional forecasts about types of events and event sequences.
+We cannot predict structural outcomes, but we can make conditional forecasts about types of event sequences.
+In part, this difference relates to the old debate between emphasis on structure or agency within the social sciences.
+This wider debate is unlikely to be resolved soon, but the causal mechanism approach seems to present a fruitful perspective because structures are viewed as emergent results of micro-level events.
 
 This is where the privacy protection example cannot be continued further, because understanding the mechanisms that are involved requires pruning the sequence to the most crucial events, finding which events are linked, and then examining each link critically to discover potential mechanisms.
 This effort is clearly beyond the scope of this paper.
