@@ -13,7 +13,7 @@ This definition highlights the key points about narrative explanation: conjunctu
 As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)".
 In a way, social reality then *is* a narrative.
 Narrative explanation can be understood as an alternative to variable-based explanations but without abandoning the notion of causality, although some theorists prefer to speak of *enchainment* rather than causality \citep{Abbott_1992,Abell_2004}.
-The problem with traditional causal explanations is that variables act rather than actors, and thus stories disappear \citep{Abbott_1992}.
+The problem with traditional causal explanations in explaining human actions is that variables rather than actors seem to act and thus "stories disappear", that is, inherent connections among events are blurred \citep{Abbott_1992}.
 
 Essentially, narrative explanation means linking events together with causal explanations.
 The task of a social scientist is to build an analytic or causal narrative from a chain of events.
@@ -22,8 +22,8 @@ Analytic narratives are "theoretically structured stories about coherent sequenc
 These definitions are very similar, and both forms aim to scientifically explain why certain events took place.
 In the following, I will use the term analytic narrative.
 
-The connection between narratives and reactive sequences is that narratives are representations of a sequence.
-They tell the story of a sequence of events in a theoretically informed way.
+The connection between narratives and reactive sequences is that narratives are representations of a sequence which include theorising about actors' motives and structural possibilities.
+Narratives the story of a sequence of events in a theoretically informed way.
 The difficult question is which are the most important events for the narrative.
 The social world is full of events, and it is often difficult discerning which ones are relevant for the research at hand. Historical institutionalists use the term *critical junctures* to refer to crucial events which trigger path-dependent processes \citep{Capoccia_2007}. To some extent, they could be likened to black swans or wild cards within futures research.
 However, a rigid distinction between critical junctures and path-dependent development may not be appropriate in many cases.
