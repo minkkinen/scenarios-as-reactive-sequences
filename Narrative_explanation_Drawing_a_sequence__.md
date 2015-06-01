@@ -8,7 +8,7 @@ Similarly, \citet{MacDonald_2012} argues that there may be archetypal cultural n
 However, within the futures field, narratives are often considered in the literary sense, as products of creative writing \citep{Burnam_Fink_2014}.
 Likewise, some historians are primarily interested in literary and linguistic representations of events rather than explaining causes of events  \citep{staley2007history}.
 Narratives are important, but they should be understood within the frame of narrative *explanation*, which is a social scientific attempt to link narrative to causal explanation and thus bring narrative closer to scientific realism.
-\citet{Griffin_1993} states that a narrative explanation is "an unfording, open-ended story fraught with conjunctures and contingency, where what happens, an action, in fact happens because of its order and position in the story".
+\citet{Griffin_1993} states that a narrative explanation is "an unfolding, open-ended story fraught with conjunctures and contingency, where what happens, an action, in fact happens because of its order and position in the story".
 This definition highlights the key points about narrative explanation: conjunctures, contingency and temporal order.
 As \citet{Abell_2004} puts it, "social reality can metaphysically be pictured as an evolutionary network of complex social interactions (i.e., as a narrative)".
 In a way, social reality then *is* a narrative.
