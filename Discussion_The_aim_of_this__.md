@@ -18,7 +18,6 @@ However, solid knowledge of history is arguably needed as a basis even for novel
 
 As for the unexplored areas, this approach is at an early stage of formulation and it has not shown its practical feasibility. Scenario building is also practical activity, and often it is equally important that approaches are feasible in practice than formally appropriate.
 Secondly, the connections to formal methods such as probability trees, agent-based modelling and Markov chains have not been explored.
-
 In addition, I have not considered actors' subjective understandings of time and of social processes.
 In order to fully understand historical sequences and potential future sequences, subjective temporal orientations would also need to be taken into account \citep{Aminzade_1992}.
 
